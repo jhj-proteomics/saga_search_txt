@@ -44,7 +44,7 @@ search_keywords_in_txts <- function(txt_folder, keywords) {
 }
 
 # Define the folder containing your text files
-txt_folder <- "C:/Users/skl448/Desktop/phd/data/sagas"
+txt_folder <- "[path to txt files]"
 
 # Define the keywords to search for
 keywords <- c("goat", "sheep", "wool")
